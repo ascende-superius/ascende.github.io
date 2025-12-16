@@ -24,7 +24,7 @@ If you have iCloud enabled on your Apple account, your Core Data may be automati
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, you can contact us at: **your.email@example.com**
+If you have any questions about this Privacy Policy, you can contact us at: **thduc.dn@gmail.com**
 
 ### Changes to This Privacy Policy
 
