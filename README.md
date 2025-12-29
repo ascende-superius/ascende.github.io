@@ -1,10 +1,10 @@
-# Privacy Policy for Active Recall Companion
+# Privacy Policy for Recall X
 
 **Last Updated: December 16, 2025**
 
 ### Introduction
 
-Welcome to Active Recall Companion (the "App"). This Privacy Policy explains how Duc Truong Huu ("we," "us," or "our") handles information in connection with your use of the App.
+Welcome to Recall X (the "App"). This Privacy Policy explains how Duc Truong Huu ("we," "us," or "our") handles information in connection with your use of the App.
 
 Your privacy is our top priority. The App is designed to be a private, secure space for your study materials. Our business model is simple: we sell the App on the App Store. We do not, and will not, sell or share your data.
 
