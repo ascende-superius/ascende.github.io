@@ -63,5 +63,3 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
 **thduc.dn@gmail.com**
-
-Or just [Buy me a coffee](https://buymeacoffee.com/thduc_dn)
